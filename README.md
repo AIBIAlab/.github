@@ -7,11 +7,13 @@
 </p>
 
 <p align="center">
-  <button onclick="window.location.href="http://www.bioinfo.ufpr.br/en/";">**Bioinfo Oficial Site**</button>
+  <a href="https://aibialab.github.io/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lab" /></a>&nbsp;
 
-<a href="https://www.bioinfodiscentes.com.br/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Bioinfo Students" /></a>&nbsp;
-<a href="https://github.com/AIBIAlab/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Lab Site" /></a>&nbsp;
-<a href="https://aibialab.github.io/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lab" /></a>&nbsp;
+  <button onclick="window.location.href='http://www.bioinfo.ufpr.br/en/';">**Bioinfo Oficial Site**</button>
+  <button onclick="window.location.href='https://www.bioinfodiscentes.com.br/';">**Bioinfo Students Site**</button>
+  <button onclick="window.location.href='https://github.com/AIBIAlab/';">**Lab Site**</button>
+  <button onclick="window.location.href='https://aibialab.github.io/';">**GitHub Lab**</button>
+
 
 </p>
 
